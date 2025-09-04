@@ -69,7 +69,7 @@ Financial instability was another significant contributing factor.
 
 Clone this repository:
 
-git clone ![https://github.com/your-username/depression-analysis-students.git]
+git clone [https://github.com/your-username/depression-analysis-students.git]
 
 
 Open the SQL file (depression_student_dataset.sql) and run it in SQL Server.
@@ -105,4 +105,5 @@ Build automated Power BI dashboards as an alternative visualization tool.
 
 ## Snapshot of the Dashboard
 
+[https://github.com/aryanj2005/Student-Depression-Analysis-using-SQL-tableau-/blob/main/%23Dashboard%20Snapshot.png]
 
